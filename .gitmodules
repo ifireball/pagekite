@@ -1,0 +1,9 @@
+[submodule "PyPagekite"]
+	path = PyPagekite
+	url = https://github.com/pagekite/PyPagekite.git
+[submodule "PyBreeder"]
+	path = PyBreeder
+	url = https://github.com/pagekite/PyBreeder.git
+[submodule "PySocksipyChain"]
+	path = PySocksipyChain
+	url = https://github.com/pagekite/PySocksipyChain.git
